@@ -2,6 +2,6 @@
 
 ### Aquí se podran ir viendo progresos y proyectos varios 
 
-![](https://db0dce98.delivery.rocketcdn.me/en/files/2024/06/Python-Variables.jpg)
+![](C:\Users\nenri\OneDrive\Desktop)
 ## Repositorios
 [Repositorio Prueba](https://github.com/NenriquezC/MPR_Tokio)
