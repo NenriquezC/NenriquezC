@@ -2,4 +2,4 @@
 
 ### Aquí se podran ir viendo progresos y proyectos varios 
 
-![] (https://www.wallpaperflare.com/technology-programming-coding-python-wallpaper-cuglq/download/2561x1440)
+![](https://www.wallpaperflare.com/technology-programming-coding-python-wallpaper-cuglq/download/2561x1440)
